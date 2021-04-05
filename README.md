@@ -1,5 +1,5 @@
 - 👋 Hi, I’m greqor!
-- 📫 You can reach me on discord: greqor#9382 
+- 📫 You can reach me on discord: greqor#9382 or twitter: greqor_
 
 <!---
 ProjectGregor/ProjectGregor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
